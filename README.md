@@ -5,6 +5,7 @@
   
   <p>
     Smoll but essetial for those who are finding free hosting ... and give a shit ...
+    
     All rights goes to Team Infinity . 
   </p>
   
@@ -33,7 +34,7 @@
 (i) Download Tapermoneky Extention : [Tapermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 
-(ii) Copy the main.js file code or downlaod it: [main.js](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AshAritra/PylexNode-Auto-Linkvertise-Coin-Earner/blob/main/main.js) 
+(ii) Copy the main.js file code or downlaod it: [main.js](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/AshAritra/mc4you-linkvertise-earner/blob/main/main.js) 
 
 (iii) And paste the code into new folder in Tapermoneky
 
