@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img src="https://media.istockphoto.com/id/901208878/vector/conceptual-cartoon-of-tired-angry-business-man-working-on-computer.jpg?b=1&s=170667a&w=0&k=20&c=HBVzy33mMduqTo-ReW4WXDtMlTCPO8IZf-ldOpVMyYE=" alt="logo" width="200" height="auto" />
-  <h1>PylexNodes Linkvertise Auto Earner</h1>
+  <img src="https://cdn.xxl.thumbs.canstockphoto.com/childs-drawing-of-a-happy-man-eps-vectors_csp14870930.jpg" alt="logo" width="200" height="auto" />
+  <h1>Mc4You Linkvertise Auto Earner</h1>
   
   <p>
     Smoll but essetial for those who are finding free hosting ... and give a shit ...
