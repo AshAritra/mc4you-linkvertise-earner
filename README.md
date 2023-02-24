@@ -48,13 +48,14 @@ Join Our Community: https://mist0drag.great-site.net
 **Some issues and fixes**
 
 (i)Issue: Might stop working at some point of many reasons like - High cpu usages and discunnection of network or website issues . 
+  
   ( @ )FIX: Just Simpley reload the page , refresh your pc or close Chrome -- drink some coffee and gimme some money and restart the chrome again.
   
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
+<a href="https://github.com/AshAritra/mc4you-linkvertise-earner/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AshAritra/mc4you-linkvertise-earner" />
 </a>
 
 
@@ -65,13 +66,13 @@ See `contributing.md` for ways to get started.
 <!-- FAQ -->
 ## :grey_question: FAQ
 
-- Question 1: Will it work for only webste (PylexNodes..)
+- Question 1: Will it work for only webste (mc4you..)
 
   + Answer 1: Nope brother , I will keep add more versions which will be work on spesific website. So stay turned .Also Please keep giving me link of website like PylexNodes
 
 - Question 2: Can i modify it ?
 
-  + Answer 2: Nope brother its fully obfuscated! For some reason . 
+  + Answer 2: Nope brother its fully obfuscated! For some security reasons, Also I dont want that website to be abused. . 
 
 
 <!-- License -->
