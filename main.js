@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  Lets hack'em all
 // @author       UnderTaker
-// @match        https://mc4you.de/lv
-// @match        https://mc4you.de/lv?success=true
+// @match        https://mc4u.xyz/lv
+// @match        https://mc4u.xyz/lv?success=true
 // @match        *://*.linkvertise.*/*
 // @exclude      *://publisher.linkvertise.com/*
 // @exclude      *://cdn.linkvertise.com/*
